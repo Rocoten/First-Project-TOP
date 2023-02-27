@@ -5,11 +5,13 @@
     font-family: 'Roboto', sans-serif;
 }
 
+/* Header */
+
 .header{
     background-color: #1f2937 ;
     color: #e5e7eb;
     font-size: 18px;
-    padding: 20px 350px;
+    padding: 20px 200px;
     height: 70px;
 
     display: flex;
@@ -28,10 +30,12 @@
     padding-left: 30px;
 }
 
+/* Hero */
+
 .bigcontainer{
     background-color: #1f2937;
     height: 700px;
-    padding: 225px 350px;
+    padding: 225px 200px;
 
     display: flex;
     
@@ -84,11 +88,11 @@
     justify-content: center;
 }
 
-
+/* Random Info Part */
 .whitecontainer{
     display: flex;
     flex-direction: column;
-    padding: 50px 480px;
+    padding: 50px 300px;
     align-items: center;
     row-gap: 50px;
 
@@ -129,9 +133,11 @@ h3{
     padding: 0px 5px;
 }
 
+/* Quote Part */
+
 .gray-container{
     background-color: #e5e7eb;
-    padding: 0px 480px ;
+    padding: 0px 300px ;
     height: 400px;
     display: flex;
     flex-direction: column;
@@ -151,8 +157,9 @@ h3{
     align-self: flex-end;
 }
 
+/* Sign up Part*/
 .white-container-last{
-    padding: 225px 350px;
+    padding: 225px 200px;
 }
 
 .blue-container{
@@ -181,7 +188,7 @@ h3{
     margin-left: auto;
 }
 
-
+/* Footer */ 
 
 .footer{
     background-color: #1f2937;
